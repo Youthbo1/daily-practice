@@ -1,2 +1,2 @@
 # daily-practice
-每天的联系Demo
+每天的练习Demo
